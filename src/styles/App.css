@@ -1,0 +1,47 @@
+#password-manager {
+    max-width: 480px;
+    margin: auto;
+    text-align: center;
+}
+
+.page {
+    max-width: 480px;
+    margin: auto;
+    text-align: center;
+    padding: '10px';
+}
+
+.grecaptcha-badge { 
+    visibility: hidden;
+}
+
+#logo {
+    width: 75%;
+    height: 75%;
+    max-width: 100px;
+    max-height: 100px;
+    /* margin: 15px 0px 0px 15px; */
+}
+
+.hide {
+    display: none;
+}
+
+#new-login-bar {
+    margin-left: 0px;
+}
+
+#faq {
+    max-width: 480px;
+    margin: auto;
+}
+
+#decrypt-button {
+    width: 50%;
+}
+
+.network-logo {
+    width: 24px;
+    height: 24px;
+    margin-bottom: -7px;
+}
