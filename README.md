@@ -8,6 +8,9 @@ Password management is one of the least secure facets of the internet today. A l
 I find it absurd that websites expect every user to personally manage and secure 10s or 100s of passwords without repeating them. Your crypto wallet is your passport to web3 sites. p6d extends that passport to the rest of the internet.
 
 Beta is live! Please try it out. Any and all feedback is greatly appreciated!
+
 Github: @gnewfield/p6d-app
+
 Twitter: @p6d_manager
+
 Smart contract: 0x610A95CE2a10825F27690226DA92B0930c844aa1
